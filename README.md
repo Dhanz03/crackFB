@@ -20,9 +20,13 @@ $ cd crackFB
 
 $ ls 
 
-$ python ewe.py 
+$ python B-api.py 
 
 
 CRACK RUNING JANDA X DOCIL OPEN BO 
 
 # Jan lupa Mandi 
+
+# Free Kaga bayar Coli aja Buat Open BO
+
+# Lain kali makan Nasi ya bang :V
